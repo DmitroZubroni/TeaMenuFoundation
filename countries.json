@@ -39,12 +39,12 @@
     "id": "taiwan",
     "name": "Тайвань",
     "icon": "🇹🇼",
-    "teaCount": 0
+    "teaCount": 6
   },
   {
     "id": "japan",
     "name": "Япония",
     "icon": "🇯🇵",
-    "teaCount": 0
+    "teaCount": 6
   }
 ]
