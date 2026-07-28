@@ -15,13 +15,13 @@
     "id": "sri_lanka",
     "name": "Шри-Ланка",
     "icon": "🇱🇰",
-    "teaCount": 0
+    "teaCount": 7
   },
   {
     "id": "vietnam",
     "name": "Вьетнам",
     "icon": "🇻🇳",
-    "teaCount": 0
+    "teaCount": 5
   },
   {
     "id": "thailand",
