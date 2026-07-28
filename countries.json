@@ -3,7 +3,7 @@
     "id": "china",
     "name": "Китай",
     "icon": "🇨🇳",
-    "teaCount": 10
+    "teaCount": 59
   },
   {
     "id": "india",
@@ -27,13 +27,13 @@
     "id": "thailand",
     "name": "Таиланд",
     "icon": "🇹🇭",
-    "teaCount": 0
+    "teaCount": 2
   },
   {
     "id": "russia",
     "name": "Россия",
     "icon": "🇷🇺",
-    "teaCount": 0
+    "teaCount": 3
   },
   {
     "id": "taiwan",
