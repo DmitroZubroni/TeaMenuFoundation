@@ -493,5 +493,41 @@
     "lat": 28.3667,
     "lng": 111.2167,
     "region": "уезд Аньхуа, Хунань"
+  },
+  {
+    "id": "lao_banzhang_sheng_puer",
+    "name": "Шэн пуэр (Лао Бань Чжан)",
+    "country": "china",
+    "category": "dark_sheng",
+    "lat": 21.8167,
+    "lng": 100.4,
+    "region": "гора Буланшань"
+  },
+  {
+    "id": "jingmai_sheng_puer",
+    "name": "Шэн пуэр (Цзинмай)",
+    "country": "china",
+    "category": "dark_sheng",
+    "lat": 22.2064,
+    "lng": 100.0206,
+    "region": "гора Цзинмай"
+  },
+  {
+    "id": "bingdao_sheng_puer",
+    "name": "Шэн пуэр (Биндао)",
+    "country": "china",
+    "category": "dark_sheng",
+    "lat": 23.75,
+    "lng": 99.9667,
+    "region": "гора Мэнку"
+  },
+  {
+    "id": "nannuo_sheng_puer",
+    "name": "Шэн пуэр (Наньно)",
+    "country": "china",
+    "category": "dark_sheng",
+    "lat": 21.9333,
+    "lng": 100.6167,
+    "region": "гора Наньношань"
   }
 ]
